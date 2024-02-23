@@ -1,0 +1,37 @@
+#entete-de-page {
+	padding: 10px;
+	height: 100px;
+	background-color: #DEDEDE;
+	font-size: 32px;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-align: center;
+}
+img
+{
+	width: 150px;
+	height: 150px;
+}
+.center
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 15%;
+}
+#bloc-menu {
+	height: 36px;
+	background-color: #808080;
+	float: center;
+	color: white;
+}
+#contenu {
+	padding: 20px;
+	background-color: #DEDEDE;
+}
+#pied-de-page {
+	padding: 200px;
+	background-color: #DEDEDE;
+}
+th { width: 200px;}
+
